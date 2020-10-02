@@ -71,6 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 https://github.com/rishikesh1410/Experience/blob/main/public/images/homepage.png?raw=true
 
-https://github.com/rishikesh1410/Experience/blob/main/public/images/addexp.png
+https://github.com/rishikesh1410/Experience/blob/main/public/images/addexp.png?raw=true
 
-https://github.com/rishikesh1410/Experience/blob/main/public/images/yourSolution.png
+https://github.com/rishikesh1410/Experience/blob/main/public/images/yourSolution.png?raw=true
