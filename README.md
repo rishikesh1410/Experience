@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Screenshots
 
-![alt text] (https://github.com/rishikesh1410/Experience/blob/main/public/images/homepage.png)
+![alt text] (https://github.com/rishikesh1410/Experience/blob/main/public/images/homepage.png?raw=true)
